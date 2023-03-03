@@ -1,2 +1,2 @@
-# BPTA-AuthServer
+# BPTA-Auth
 BPTA Auth Server
